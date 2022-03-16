@@ -1,4 +1,4 @@
-# Close Drop Box on Metered Connection 
+# Close DropBox on Metered Connection 
 
 A utility closes dropbox when running on a metered connection. 
 This was a annoyingly using all my data when moving house when I forgot to turn dropbox off when hot-spotting myself. 
